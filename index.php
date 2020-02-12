@@ -28,20 +28,20 @@
       include 'iletisim.php';
       break;
 
-    case '1-kolon-sayfa':
-      include '1-kolon-sayfa.php';
+    case '1-kolonlu-sayfa':
+      include '1-kolonlu-sayfa.php';
       break;
 
-    case '2-kolon-sayfa':
-      include '2-kolon-sayfa.php';
+    case '2-kolonlu-sayfa':
+      include '2-kolonlu-sayfa.php';
       break;
 
-    case '3-kolon-sayfa':
-      include '3-kolon-sayfa.php';
+    case '3-kolonlu-sayfa':
+      include '3-kolonlu-sayfa.php';
       break;
 
-    case '4-kolon-sayfa':
-      include '4-kolon-sayfa.php';
+    case '4-kolonlu-sayfa':
+      include '4-kolonlu-sayfa.php';
       break;
 
     case 'tek-sayfa':

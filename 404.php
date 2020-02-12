@@ -3,47 +3,50 @@
   <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">404
-      <small>Page Not Found</small>
+    <h1 class="mt-4 mb-3">404:
+      <small>Sayfa bulunamadı...</small>
     </h1>
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
+        <a href="index.html">Anasayfa</a>
       </li>
       <li class="breadcrumb-item active">404</li>
     </ol>
 
     <div class="jumbotron">
       <h1 class="display-1">404</h1>
-      <p>The page you're looking for could not be found. Here are some helpful links to get you back on track:</p>
+      <p>Aradığınız sayfa bulunamadı. Aşağıdaki bağlantıları kullanabilirsiniz:</p>
       <ul>
         <li>
-          <a href="index.html">Home</a>
+          <a href="anasayfa">Anasayfa</a>
         </li>
         <li>
-          <a href="about.html">About</a>
+          <a href="hakkimizda">Hakkımızda</a>
         </li>
         <li>
-          <a href="services.html">Services</a>
+          <a href="hizmetler">Hizmetler</a>
         </li>
         <li>
-          <a href="contact.html">Contact</a>
+          <a href="iletisim">İletişim</a>
         </li>
         <li>
-          Portfolio
+          Sayfalar
           <ul>
             <li>
-              <a href="portfolio-1-col.html">1 Column Portfolio</a>
+              <a href="1-kolonlu-sayfa">1 Kolonlu Sayfa</a>
             </li>
             <li>
-              <a href="portfolio-2-col.html">2 Column Portfolio</a>
+              <a href="2-kolonlu-sayfa">2 Kolonlu Sayfa</a>
             </li>
             <li>
-              <a href="portfolio-3-col.html">3 Column Portfolio</a>
+              <a href="3-kolonlu-sayfa">3 Kolonlu Sayfa</a>
             </li>
             <li>
-              <a href="portfolio-4-col.html">4 Column Portfolio</a>
+              <a href="4-kolonlu-sayfa">4 Kolonlu Sayfa</a>
+            </li>
+            <li>
+              <a href="tek-sayfa">Tek Sayfa</a>
             </li>
           </ul>
         </li>
@@ -51,39 +54,38 @@
           Blog
           <ul>
             <li>
-              <a href="blog-home-1.html">Blog Home 1</a>
+              <a href="1.-blog-anasayfa">1. Blog Anasayfa</a>
             </li>
             <li>
-              <a href="blog-home-2.html">Blog Home 2</a>
+              <a href="2.-blog-anasayfa">2. Blog Anasayfa</a>
             </li>
             <li>
-              <a href="blog-post.html">Blog Post</a>
+              <a href="ilet-sayfasi">İlet Sayfası</a>
             </li>
           </ul>
         </li>
         <li>
-          Other Pages
+          Diğer Sayfalar
           <ul>
             <li>
-              <a href="full-width-page.html">Full Width Page</a>
+              <a href="genis-sayfa">Geniş Sayfa</a>
             </li>
             <li>
-              <a href="sidebar.html">Sidebar Page</a>
+              <a href="kenar-cubugu">Kenar Çubuğu</a>
             </li>
             <li>
-              <a href="faq.html">FAQ</a>
+              <a href="sik-sorulan-sorular">SSS</a>
             </li>
             <li>
-              <a href="404.html">404 Page</a>
+              <a href="404">404 Hata</a>
             </li>
             <li>
-              <a href="pricing-table.html">Pricing Table</a>
+              <a href="fiyatlandirma-tablosu">Fiyatlandırma Tablosu</a>
             </li>
           </ul>
         </li>
       </ul>
     </div>
     <!-- /.jumbotron -->
-
   </div>
   <!-- /.container -->

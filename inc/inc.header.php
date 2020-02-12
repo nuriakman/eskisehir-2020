@@ -47,10 +47,10 @@
               Sayfalar
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-              <a class="dropdown-item <?php if($sayfa == '1-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('1 kolon sayfa'); ?>">1 Kolonlu Sayfa</a>
-              <a class="dropdown-item <?php if($sayfa == '2-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('2 kolon sayfa'); ?>">2 Kolonlu Sayfa</a>
-              <a class="dropdown-item <?php if($sayfa == '3-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('3 kolon sayfa'); ?>">3 Kolonlu Sayfa</a>
-              <a class="dropdown-item <?php if($sayfa == '4-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('4 kolon sayfa'); ?>">4 Kolonlu Sayfa</a>
+              <a class="dropdown-item <?php if($sayfa == '1-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('1 kolonlu sayfa'); ?>">1 Kolonlu Sayfa</a>
+              <a class="dropdown-item <?php if($sayfa == '2-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('2 kolonlu sayfa'); ?>">2 Kolonlu Sayfa</a>
+              <a class="dropdown-item <?php if($sayfa == '3-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('3 kolonlu sayfa'); ?>">3 Kolonlu Sayfa</a>
+              <a class="dropdown-item <?php if($sayfa == '4-kolon-sayfa'){echo 'active';} ?>" href="<?= seo('4 kolonlu sayfa'); ?>">4 Kolonlu Sayfa</a>
               <a class="dropdown-item <?php if($sayfa == 'tek-sayfa'){echo 'active';} ?>"     href="<?= seo('tek sayfa'); ?>">Tek Sayfa</a>
             </div>
           </li>
@@ -72,7 +72,7 @@
               <a class="dropdown-item <?php if($sayfa == 'genis-sayfa'){echo 'active';} ?>" href="<?= seo('genis sayfa'); ?>">Geniş Sayfa</a>
               <a class="dropdown-item <?php if($sayfa == 'kenar-cubugu'){echo 'active';} ?>" href="<?= seo('kenar cubugu'); ?>">Kenar Çubuğu</a>
               <a class="dropdown-item <?php if($sayfa == 'sik-sorulan-sorular'){echo 'active';} ?>" href="<?= seo('sik sorulan sorular'); ?>">SSS</a>
-              <a class="dropdown-item <?php if($sayfa == '404'){echo 'active';} ?>" href="<?= seo('404'); ?>">404</a>
+              <a class="dropdown-item <?php if($sayfa == '404'){echo 'active';} ?>" href="<?= seo('404'); ?>">404 Hata</a>
               <a class="dropdown-item <?php if($sayfa == 'fiyatlandirma-tablosu'){echo 'active';} ?>" href="<?= seo('fiyatlandirma tablosu'); ?>">Fiyatlandırma Tablosu</a>
             </div>
           </li>
