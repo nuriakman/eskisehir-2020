@@ -15,7 +15,7 @@
     <!-- Intro Content -->
     <div class="row">
       <div class="col-lg-6">
-        <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
+        <img class="img-fluid rounded mb-4" src="uploads/01-1900x1080.jpg" alt="">
       </div>
       <div class="col-lg-6 text-justify">
         <h2>Eskişehir 2020 Tema Hakkında</h2>
@@ -38,7 +38,7 @@
     <div class="row">
       <div class="col-lg-4 mb-4">
         <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+          <img class="card-img-top" src="uploads/motor-700x400.jpg" alt="">
           <div class="card-body">
             <h4 class="card-title">Team Member</h4>
             <h6 class="card-subtitle mb-2 text-muted">Position</h6>
@@ -51,7 +51,7 @@
       </div>
       <div class="col-lg-4 mb-4">
         <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+          <img class="card-img-top" src="uploads/tirmanma-700x400.jpg" alt="">
           <div class="card-body">
             <h4 class="card-title">Team Member</h4>
             <h6 class="card-subtitle mb-2 text-muted">Position</h6>
@@ -64,7 +64,7 @@
       </div>
       <div class="col-lg-4 mb-4">
         <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+          <img class="card-img-top" src="uploads/voleybol-700x400.jpeg" alt="">
           <div class="card-body">
             <h4 class="card-title">Team Member</h4>
             <h6 class="card-subtitle mb-2 text-muted">Position</h6>
