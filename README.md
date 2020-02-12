@@ -23,6 +23,8 @@ sudo gedit /etc/apache2/sites-available/000-default.conf
 
 #####  Dosya içerisindekileri tamamen silin ve aşağıdaki kodları yapıştırın;
 
+Tabiki sizin kullanıcı adınızı ve proje adresinizi kendinize göre düzenlemeniz gerekmektedir.
+
 ```text 
 <VirtualHost *:80>
 	ServerAdmin kullaniciadiniz@localhost
