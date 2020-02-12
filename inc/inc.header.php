@@ -23,7 +23,7 @@
 
   <!-- Navigation -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <div class="container">
+    <div class="container-fluid">
       <a class="navbar-brand" href="anasayfa">ESKİŞEHİR 2020</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -76,7 +76,11 @@
               <a class="dropdown-item <?php if($sayfa == 'fiyatlandirma-tablosu'){echo 'active';} ?>" href="<?= seo('fiyatlandirma tablosu'); ?>">Fiyatlandırma Tablosu</a>
             </div>
           </li>
-        </ul>
+        </ul>        
+        <form class="form-inline my-2 my-lg-0 ml-3">
+          <input class="form-control mr-sm-2" type="search" placeholder="Site içi ara ..." aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">ARA</button>
+        </form>
       </div>
     </div>
   </nav>
