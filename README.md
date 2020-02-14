@@ -7,7 +7,7 @@ Original tema MIT lisanlı olup, bu haliyle isteyen istediği şekilde kullanabi
 ### Temaya kattığımız bazı özellikler;
 
 - Tema parçalanarak php dosyaları ve dizin yapısı düzenlenmiştir,
-- Url koruması, sayfa başlarında yer alan "kontrol" değişkeni ve .htaccess dosyası ile güvenilir duruma getirilmiştir,
+- URL koruması, sayfa başlarında yer alan "kontrol" değişkeni ve .htaccess dosyası ile güvenilir duruma getirilmiştir,
 - Sayfalama url adresleri seo() fonksiyonu ile seo uyumlu hale getirilmiştir,
 - Anasayfa'nın tamamı ve hakkımızda sayfasının bir bölümü dışında kalan sayfalar Modern Business teması orjinalliğinde bırakılmıştır,
 - Orjinal sayfa resim bağlantıları dış bağlantı olmaktan kurtulunduğu anda site tamamen dahili bağlantılar ile çalışır duruma getirilmiş olacak.
@@ -16,7 +16,7 @@ Original tema MIT lisanlı olup, bu haliyle isteyen istediği şekilde kullanabi
 
 ##### 000-default.conf dosyası:
 
-Dosyayı açmak için;
+## Dosyayı açmak için;
 
 ```sh 
 sudo gedit /etc/apache2/sites-available/000-default.conf
